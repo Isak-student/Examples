@@ -22,5 +22,5 @@ void PrintArray(int[] col)
 
 int[] array = new int[10]; //new int[10] - создай 10 элементов//
 
-FillArray(array);
-PrintArray(array);
+FillArray(array); // наименование массива//
+PrintArray(array); // печать массива//
